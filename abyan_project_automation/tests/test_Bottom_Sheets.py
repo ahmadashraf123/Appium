@@ -1,0 +1,6 @@
+#       login_page.verify_enable_notifications()
+#     login_page.verify_premium_pop_up()
+# holistic_page.click_on_updated_portfolio_popup()
+#     holistic_page.click_on_feedback_popup()
+# holistic_page.handle_enable_notifications_if_displays()
+#     holistic_page.click_on_the_portfolio_name_update_pop_up()

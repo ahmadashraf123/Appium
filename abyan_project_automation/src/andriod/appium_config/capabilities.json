@@ -1,0 +1,15 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "deviceName": "emulator-5554",
+  "app": "D:\\apk\\app-staging-debug.apk",
+  "appPackage": "com.abyanflutter.qa",
+  "appActivity": "com.abyanflutter.abyan_flutter.MainActivity",
+  "noReset": true,
+  "fullReset": false,
+  "autoGrantPermissions": true,
+  "newCommandTimeout": 600,
+  "connectHardwareKeyboard": true,
+  "ensureWebviewsHavePages": true,
+  "nativeWebScreenshot": true
+}
